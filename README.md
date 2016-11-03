@@ -13,4 +13,6 @@ Extra futures will be to Log in and Sign up
 Offline support: The aplication will persist data on the local storage 
 Online support: Keeping data stored in a database
 
+Intent: share a car by Gmail
+
 Animations: menu
