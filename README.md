@@ -12,3 +12,5 @@ Extra futures will be to Log in and Sign up
 
 Offline support: The aplication will persist data on the local storage 
 Online support: Keeping data stored in a database
+
+Animations: menu
